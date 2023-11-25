@@ -6,4 +6,5 @@ foreach ($array as $item)
 {
     printf($item."\n");
 }
+
 print $name;
