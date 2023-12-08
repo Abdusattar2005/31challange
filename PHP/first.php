@@ -12,3 +12,9 @@ foreach ($array as $item)
     print $name;
     printf($item."\n");
 }
+{
+    $age = "aaaa";
+    $_COOKIE=true;
+    echo "$age, $_COOKIE";
+
+}
