@@ -15,6 +15,7 @@ foreach ($array as $item)
 {
     $age = "aaaa";
     $_COOKIE=true;
+    $old =[4 ,8, 9,];
     echo "$age, $_COOKIE";
 
 }
