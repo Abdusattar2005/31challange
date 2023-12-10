@@ -2,10 +2,12 @@
 
 $name = "Абдусаттар";
 $hobby="учит";
-$array = [0,1, 2654,56,765,567,658,568,568,];
+$array = [0,1, 26,54,56,76,5,56,7,65,8,5,68,56,8,];
+$fail="rrrr";
 $pat =true;
 $_GET ="rthryk";
 $had =true;
+echo "$fail";
 foreach ($array as $item)
 
 {
