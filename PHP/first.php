@@ -2,13 +2,13 @@
 
 $name = "Абдусаттар";
 $hobby="учит";
-$array = [0,1, 26,54,56,76,5,56,7,65,8,5,68,56,8,];
+
 $fail="rrrr";
-$pat =true;
+$pat =[34,33,3,3,3,3,3,3,55,];
 $_GET ="rthryk";
 $had =true;
 echo "$fail";
-foreach ($array as $item)
+foreach ($pat as $item)
 
 {
     print $name;
